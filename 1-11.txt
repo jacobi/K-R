@@ -1,0 +1,9 @@
+/* Exercise 1-11.
+ * How would you test the word count program?  What kind of input are most
+ * likely to uncover bugs, if there are any.
+ */
+
+Blank input (whitespace) suggests that there's a single character.
+Blank input (whitespace + tab) suggests that there's _no_ character input.
+
+There are probably others -- I'm too mentally instable to discover others.
